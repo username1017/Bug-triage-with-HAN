@@ -1,5 +1,5 @@
 # Bug-triage-with-HAN
-## Data sets:
+### Data sets:
 * [Chromium](http://bugtriage.mybluemix.net/)
 * [Mozilla Core](http://bugtriage.mybluemix.net/)
 * [Mozilla Firefox](http://bugtriage.mybluemix.net/)
