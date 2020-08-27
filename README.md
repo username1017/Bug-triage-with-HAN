@@ -1,4 +1,5 @@
 # Bug-triage-with-HAN
+![](https://img.shields.io/badge/python-3.6-green)
 ### Data sets:
 * [Chromium](http://bugtriage.mybluemix.net/)
 * [Mozilla Core](http://bugtriage.mybluemix.net/)
